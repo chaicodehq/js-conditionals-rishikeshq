@@ -32,4 +32,7 @@
  */
 export function calculateCoffeePrice(size, type, extras = {}) {
   // Your code here
+  
+  
 }
+calculateCoffeePrice( 'small','mocha','true');
